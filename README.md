@@ -79,12 +79,11 @@ Ruby with rake and bundler available.
 
 ## Author information
 
-Mark Kusch @mark.kusch silpion.de
+Steamulo - www.steamulo.com
+
+Forked from [Mark Kusch](https://github.com/silpion) @mark.kusch silpion.de
 
 
 ### Contributors
 
 * [ludovicc](https://github.com/ludovicc)
-
-
-<!-- vim: set ts=4 sw=4 et nofen: -->
